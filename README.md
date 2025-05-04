@@ -17,15 +17,28 @@ Here are some ideas to get you started:
 
 ## Who I am
 
-My name is Gabriele and I am 22 years old. I come from Italy but at the moment I am living in Germany. 
-I am studying Medicine at the University without having any plan to become a doctor.
+My name is Gabriele and I am 22 years old. I am italian but I am living and studying in Heidelberg (Germany). 
+I am currently attending the Medical School. Nevertheless I am figuring out that the clinical practice is not my cup of tea.
+For this reason I am trying to spread up my toolbox of knowledges and learning to code. 
 
 ## A coding story
 
-Since I was a child, I have had an inner interest for everything involving technology and science and in the more recent years I have been fascinated by the world of Computer Science.
-I started to code on my own without any real purpose and get deeply involved in it. 
-In the past few months I attended the CS50X classes and get a good general understanding of Computer Science.
+Since I was a child, I have had an interest for technology, science and CS in particularly.
+With 14 years old I started to write some Phyton, though I have never really put the proper amount of effort to become good at it, considering it a form of hobby and mental training.
+Since December 2023 I attented and completed the CS50X course.
 
-## What I am working on
+## What I am doing now
 
-At the moment I am working on my **CS50X Final Project** and learning how to deal with Git/Github.
+Right now I am figuring out my first coding project.
+
+## Knowledges
+
+- C
+- Python
+- SQLite3
+- HTML/CSS/JS
+
+## How to reach me
+
+- Linkedin: www.linkedin.com/in/gabrielefait
+- Email: gabrielefait18@gmail.com
