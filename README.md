@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 
 ## Who I am
 
-My name is Gabriele and I am 22 years old. I am italian but I am living and studying in Heidelberg (Germany). 
-I am currently attending the Medical School. Nevertheless I am figuring out that the clinical practice is not my cup of tea.
-For this reason I am trying to spread up my toolbox of knowledges and learning to code. 
+My name is Gabriele and I am 23 years old. I am italian but I am living and studying in Munich (Germany). 
+I am currently in the forelast year of Medical School. Nowadays coding helps me in two ways: On the one hand it keeps my mind active and reduces my focus on medical topics. On the other hand it allows me to solve the small problems I encounter in my digital everyday life. 
 
 ## A coding story
 
@@ -29,7 +28,7 @@ Since December 2023 I attented and completed the CS50X course.
 
 ## What I am doing now
 
-Right now I am figuring out my first coding project.
+Right now I am working on a small Flask web app to calculate the average-daily-balance for cryptocurrencies.
 
 ## Knowledges
 
